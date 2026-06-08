@@ -4,7 +4,7 @@ A clean, minimalist web page featuring a responsive fullscreen video background 
 
 ## 🚀 Live Demo or Preview
 
-_(Optional: You can add a link to your live project or a screenshot here)_
+- Don't show preview
 
 ## 🧠 What I Learned (Learning Outcomes)
 
